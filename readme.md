@@ -7,6 +7,11 @@
 * POSTGRES_PASSWORD
 * POSTGRES_DB
 
+## Запуск приложения
+```bash
+docker compose up --build
+```
+
 ### URL для создания инцидента: 
 * HTTP POST 127.0.0.1:8000/api/incidents/
 
