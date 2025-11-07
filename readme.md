@@ -2,6 +2,11 @@
 
 * https://buildin.ai/share/e83a7360-91b2-4dda-88d1-44166182d964?code=1N7GCX
 
+## Перед запуском необходимо установить переменные окружения:
+* POSTGRES_USER
+* POSTGRES_PASSWORD
+* POSTGRES_DB
+
 ### URL для создания инцидента: 
 * HTTP POST 127.0.0.1:8000/api/incidents/
 
